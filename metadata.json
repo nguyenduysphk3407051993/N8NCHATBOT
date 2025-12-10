@@ -1,0 +1,5 @@
+{
+  "name": "N8N Chatbot Builder",
+  "description": "A frontend interface to upload documents (PDF, Docx, AV) and text to train an N8N-powered chatbot.",
+  "requestFramePermissions": []
+}
